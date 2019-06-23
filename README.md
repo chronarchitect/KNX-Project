@@ -5,9 +5,9 @@ A machine learning model which classifies whether a passenger would survive afte
 
 ![code-preview](images/Screenshot_analysis.png)
 
-Datasets provided by Konnexions, IT Society of KIIT.
-Model based on Logistic Regression
-F Score = 0.95
+- Datasets provided by Konnexions, IT Society of KIIT.
+- Model based on Logistic Regression
+- F Score = 0.95
 
 The documented code is hosted here:
 [https://chronarchitect.github.io/KNX-Project/](https://chronarchitect.github.io/KNX-Project/)
