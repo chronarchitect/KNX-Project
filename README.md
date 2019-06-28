@@ -19,8 +19,5 @@ The documented code is hosted here:
 
 - [Aniket Das](https://github.com/chronarchitect)
 - [Sanat Singh](https://github.com/sanatsingh)
-
-#### - Help Recieved
-
 - [Biswajeet Sahoo](https://github.com/asterlanghorn)
-- Akarsh Srivastava
+- [Akarsh Srivastava](https://github.com/heisenberg42)
